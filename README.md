@@ -11,6 +11,8 @@ El proyecto simula una conversación tipo *chat de bar* (tono informal pero crí
 
 ## 🌐 Demo en Vercel
 
+https://interface-para-llm-vs-llm-4mco.vercel.app/
+
 ---
 
 ## 🚀 Ejecución en local
