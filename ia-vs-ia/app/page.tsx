@@ -638,7 +638,7 @@ export default function Page() {
 
                 {finished && (
                   <div className="mt-1 text-center text-[11px] font-semibold uppercase tracking-widest text-[#efe6d6]/90">
-                    Conversación finalizada · 5 turnos por LLAMA y 5 por OPENAI
+                    Conversación nazi finalizada · 5 turnos por LLAMA y 5 por OPENAI
                   </div>
                 )}
               </div>
